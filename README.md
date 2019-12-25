@@ -9,3 +9,5 @@ Pending work -
 3. Make webpage more interactive and stick to the theme and colors currently used.
 
 Try to complete the task asap.
+
+Note : Current webpage is designed for full screen view. Press F11 on your browser to view it properly.
